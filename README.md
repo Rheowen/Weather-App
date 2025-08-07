@@ -8,6 +8,8 @@
 
 
 ![Weather App Screenshot](weather-app/public/screenshot-weather-app1.png)
+<img src="./weather-app/public/screenshot-weather-app1.png" alt="Weather App Screenshot" width="500" height="300" />
+
 
 
 ---
