@@ -7,8 +7,10 @@
 
 
 
-<img src="./weather-app/public/screenshot-weather-app1.png" alt="Weather App Screenshot" width="500" height="300" />
-<img src="./weather-app/public/screenshot-weather-app2.png" alt="Weather App Screenshot" width="500" height="300" />
+<p align="center">
+  <img src="./weather-app/public/screenshot-weather-app1.png" alt="Weather App Screenshot 1" width="300" />
+  <img src="./weather-app/public/screenshot-weather-app2.png" alt="Weather App Screenshot 2" width="300" />
+</p>
 
 
 
