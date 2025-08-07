@@ -1,4 +1,4 @@
-# 🌤️ Weather Apย
+# 🌤️ Weather App
 แสดงสภาพอากาศตามชื่อเมือง โดยใช้ API จาก OpenWeatherMap
 
 ---
@@ -7,7 +7,7 @@
 
 
 
-![Weather App Screenshot](./Screenshot-Weather-app#1.png)
+![Weather App Screenshot](./Screenshot-Weather-app1.png)
 
 ---
 
