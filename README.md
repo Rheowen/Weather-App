@@ -7,7 +7,7 @@
 
 
 
-![Weather App Screenshot](./public/screenshot-weather-app1.png)
+![Weather App Screenshot](weather-app/public/screenshot-weather-app1.png)
 
 
 ---
